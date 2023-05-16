@@ -1,0 +1,4 @@
+rootProject.name = 'Lab4_Halicki'
+include 'html-remover'
+include 'html-removing-application'
+
